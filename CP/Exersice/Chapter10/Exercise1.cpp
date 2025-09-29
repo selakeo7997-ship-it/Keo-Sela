@@ -1,6 +1,6 @@
-Group 9
+/* Group 9
 Write a program that first will read integers from the user into a vector until the user enters 0. Then, 
-remove all duplicates in the vector, and display the vector.
+remove all duplicates in the vector, and display the vector. */
     
 #include <iostream>
 #include <vector> //Header for using vector
